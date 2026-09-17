@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "download_url": "https://raw.githubusercontent.com/Megumin-Program/Cat-flip-Updates/main/Catflip%20for%20Kernel.sac.exe",
-  "release_notes": "Añadidas pestañas múltiples y gestor de actualizaciones."
+  "release_notes": "Añadido zoom táctil (Pinch-to-zoom) y optimización de pestañas."
 }
